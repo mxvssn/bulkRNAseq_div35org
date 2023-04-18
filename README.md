@@ -1,3 +1,3 @@
 # bulkRNAseq_div35org
 
-This repository contains the main coding file for the analysis of bulk RNA sequencing data of DIV 35 organoids. 
+This repository contains the main coding files for the analyses performed in 'Modeling region-specific effects of PTCH1 loss of function with human iPSC-derived cerebellar organoids'.
